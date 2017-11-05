@@ -1,3 +1,4 @@
 Hi geet u just created a file 
 branch1 commit
 2nd commit for conflicts
+let's write one function
